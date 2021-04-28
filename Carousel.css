@@ -1,0 +1,11 @@
+img {
+    width: 90vh;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: gray;
+}
+
+body {
+
+    width: 100vh;
+}
